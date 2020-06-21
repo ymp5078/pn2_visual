@@ -4,3 +4,4 @@ matplotlib
 ipywidgets
 plotly
 pandas
+voila
