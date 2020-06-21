@@ -1,0 +1,8 @@
+pickle
+ipyvolume
+numpy
+matplotlib
+ipywidgets
+plotly
+pandas
+glob
