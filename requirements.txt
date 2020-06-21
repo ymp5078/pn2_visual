@@ -4,4 +4,3 @@ matplotlib
 ipywidgets
 plotly
 pandas
-glob
