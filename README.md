@@ -29,4 +29,3 @@ pip install ipyvolume numpy matplotlib ipywidgets plotly pandas
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
