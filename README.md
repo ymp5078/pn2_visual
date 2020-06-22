@@ -8,7 +8,7 @@
 
 ## Download Data
 
-Navigate to project directory
+Clone the repo and navigate to project directory
 
 ```bash
 wget -c -O tmp.zip https://psu.box.com/shared/static/5iqdqxqznyjk3p6uzvebwpcwlm8w0nhz.zip && unzip tmp.zip && rm tmp.zip
